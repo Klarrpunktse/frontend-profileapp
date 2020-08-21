@@ -36,7 +36,7 @@ class ProfilePage extends React.Component {
       data,
     });
 
-    console.log("updatedUserRes", updateUserRes);
+    console.log("updatedUserRes hejhejehj", updateUserRes);
   };
 
   render() {
